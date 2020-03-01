@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ashikvahab/Robo-friends.git/static/css/main.5f650857.chunk.css",
+    "main.js": "/ashikvahab/Robo-friends.git/static/js/main.08725e9c.chunk.js",
+    "main.js.map": "/ashikvahab/Robo-friends.git/static/js/main.08725e9c.chunk.js.map",
+    "runtime-main.js": "/ashikvahab/Robo-friends.git/static/js/runtime-main.d621705c.js",
+    "runtime-main.js.map": "/ashikvahab/Robo-friends.git/static/js/runtime-main.d621705c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/ashikvahab/Robo-friends.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2333c5ef.chunk.js": "/ashikvahab/Robo-friends.git/static/js/2.2333c5ef.chunk.js",
+    "static/js/2.2333c5ef.chunk.js.map": "/ashikvahab/Robo-friends.git/static/js/2.2333c5ef.chunk.js.map",
+    "index.html": "/ashikvahab/Robo-friends.git/index.html",
+    "precache-manifest.bf3743396c92f96793408c4fadf8012f.js": "/ashikvahab/Robo-friends.git/precache-manifest.bf3743396c92f96793408c4fadf8012f.js",
+    "service-worker.js": "/ashikvahab/Robo-friends.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/ashikvahab/Robo-friends.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5f650857.chunk.css.map": "/ashikvahab/Robo-friends.git/static/css/main.5f650857.chunk.css.map",
+    "static/js/2.2333c5ef.chunk.js.LICENSE.txt": "/ashikvahab/Robo-friends.git/static/js/2.2333c5ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ashikvahab/Robo-friends.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d621705c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2333c5ef.chunk.js",
+    "static/css/main.5f650857.chunk.css",
+    "static/js/main.08725e9c.chunk.js"
+  ]
+}
